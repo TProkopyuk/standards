@@ -25,11 +25,11 @@
   },
   "AO": {
     "name_uk": "Республіка Ангола",
-    "name_en": "Albania"
-  },
-  "AO": {
-    "name_uk": "Антигуа і Барбуда",
     "name_en": "Angola"
+  },
+  "AG": {
+    "name_uk": "Антигуа і Барбуда",
+    "name_en": "Antigua and Barbuda"
   },
   "AZ": {
     "name_uk": "Азербайджанська Республіка",
@@ -277,7 +277,7 @@
   },
   "FK": {
     "name_uk": "Фолклендські (Мальвінські) Острови",
-    "name_en": "Falkland Islands (Malvinas])"
+    "name_en": "Falkland Islands (Malvinas)"
   },
   "GS": {
     "name_uk": "Південна Джорджія та Південні Сандвічеві Острови",
